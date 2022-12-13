@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Desktop Page Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="33.401">
+  <properties />
+  
+  
+            <testcase name="verifyProductArrangeInAlphabeticalOrder" time="12.627" classname="com.turorialsninja.demo.testsuit.DesktopPageTest" />
+                <testcase name="verifyProductAddedToShoppingCartSuccessFully" time="20.774" classname="com.turorialsninja.demo.testsuit.DesktopPageTest" />
+      
+</testsuite>
